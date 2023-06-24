@@ -12,9 +12,28 @@ Moving on.
 These are in order price
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
-     - Looks there will be six extra T5 screws. Looking at the bottom disassembly guide, Only need 13 screws are needed and the kit includes 19. Extras are because they're included as captive in the bottom cover (which I'll be ordering as a kit.) This isn't the worst in the world :)
-     - Which are extras and their placement aren't in any guide in the site. This means I won't know until I get there if the Top Cover Fastener kit will even be needed. 
+     - Per [the Fasteners Guide](https://guides.frame.work/Guide/Fasteners+Guide/106?lang=en) this kit includes the following:
+          - M2 3.0mm fastener with a T5 head which is 4.5mm diameter and 0.7mm thick (x4)
+               - These are gold colored, for WiFi, Storage, and Audio Board
+                    - Three aren't needed: Wifi, Audio, and a spare
+                    - The Wifi bracket with screw and Audio board (pre-attached) are included with the Bottom Cover Kit
+                    - FYI: There's no place else where these are used
+          - M1.6 1.5mm fastener with a T5 head which is 5.5mm diameter and 0.6mm thick (x5)
+               - These are gray colored, all will used for the Mainboaard (also can be used for webcam)
+          - M2 4.0mm fastener with a T5 head which is 4.6mm diameter and 0.6mm thick (x4)
+               - These are silver colored, all will be used for the hinges
+          - M2 5.75mm with a T5 head which is 4.6mm diameter and 0.8mm thick (x5)
+               - These all will be extras as the Bottom Cover includes them
+               - FYI: There's no place else where these are used
+
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
+     - This kit includes the following:
+          - M1.6 1.5mm fastener with a T5 head which is 5.5mm diameter and 0.6mm thick (x2)
+               - These are gray colored and both will be used for the Webcam
+          - M2 2.0mm fastener with a T5 head which is 4.5mm diameter and 0.5mm thick (x8)
+               - These are gray colored and all will be used for the Display and hinges
+          - M1.6 3.0mm fastener with a T5 head which is 3.0mm diameter and 0.65mm thick (x4)
+               - These are silver colored and all will be used for the Antenna Module and hinges
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] [Battery - 55Wh](https://frame.work/products/battery?v=FRANBBAT01)
