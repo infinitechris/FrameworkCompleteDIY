@@ -29,7 +29,7 @@ These won't be needed for the laptop to be functional, but I might eventually ge
 - [ ] Wifi Module [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
      - I have a wifi USB-A dongle that has the same chipset that the Raspberry Pi 3 uses that I will be using in a USB hub (as long as the hub is supported. Likely this will be upgraded
      - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for why I chose the AX210 vs the AX211
-     - Per [this link](https://community.frame.work/t/tracking-does-anyone-have-wifi-6e-working-in-linux-with-the-ax210/27890) it looks like I'll have to make sure I'm on kernel 5.15.94 and no later. FWIW: I'll be using vanilla Arch on this machine
+     - Per [this link](https://community.frame.work/t/solved-using-the-ax210-with-linux-on-the-framework-laptop/1844) it looks like I'll have to make sure I'm on kernel 5.12.0 and no later. FWIW: I'll be using vanilla Arch on this machine
 - [ ] Expansion Modules
   
 # Assembly
