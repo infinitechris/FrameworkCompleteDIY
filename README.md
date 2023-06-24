@@ -28,7 +28,7 @@ These won't be needed for the laptop to be functional, but I might eventually ge
       - This will be nice to have for video confrencing at work, but likely I won't get it unless there's a gaping hole in the display that aesthetically bothers me 
 - [ ] [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
      - I have a wifi USB-A dongle that has the same chipset that the Raspberry Pi 3 uses that I will be using in a USB hub (as long as the hub is supported. Likely this will be upgraded
-     - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for why I chose the AX210 vs the AX211
+     - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for AX210 vs AX211
      - Per [this link](https://community.frame.work/t/solved-using-the-ax210-with-linux-on-the-framework-laptop/1844) it looks like I'll have to make sure I'm on kernel 5.12.0 and no later. FWIW: I'll be using vanilla Arch on this machine
 - [ ] Expansion Modules
   
