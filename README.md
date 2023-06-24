@@ -7,7 +7,6 @@ in some order of ordering / Price until I can do a bulk order for what else is l
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
-- [ ] [Touchpad Cable](https://frame.work/products/touchpad-cable)
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] Battery - 55Wh
