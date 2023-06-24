@@ -23,7 +23,7 @@ These are in order price
 - [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
 
 ## Additioal Nice-to-Haves
-These won't be needed for the laptop to be functional, but I might eventually get to lessen my dependency on dongles.
+These won't be needed for the laptop to be functional, but I might eventually get to lessen my dependency on dongles and my usb hub.
 - [ ] [Webcam Module](https://frame.work/products/webcam-module?v=FRANCPPA01)
       - This will be nice to have for video confrencing at work, but likely I won't get it unless there's a gaping hole in the display that aesthetically bothers me 
 - [ ] [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
