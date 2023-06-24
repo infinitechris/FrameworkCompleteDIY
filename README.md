@@ -14,7 +14,7 @@ in some order of ordering / Price until I can do a bulk order for what else is l
 - [ ] [Bottom Cover Kit](https://frame.work/products/bottom-cover-kit/)
 - [ ] [Input Cover Kit - US English](https://frame.work/products/input-cover-kit?v=FRANHC0001)
 - [ ] [Display Kit - Original](https://frame.work/products/display-kit?v=FRANFX0001)
-- [ ] Mainboard - 11th Gen - i5-1135G7
+- [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
   
 # Why?
 I'm **clearly** criminal levels of insane, and configuration options are scarse unless I want to pre-order a laptop, or be chained to a limited selection of products. I also wanted to see *exactly* how little is needed to boot a *usable* - in my own view - laptop
