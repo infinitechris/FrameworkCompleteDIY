@@ -7,7 +7,7 @@ Moving on.
 # Parts
 
 ## Needed
-     These are in order price
+These are in order price
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
      - Looks there will be six extra T5 screws. Looking at the bottom disassembly guide, Only need 13 screws are needed and the kit includes 19. Extras are because they're included as captive in the bottom cover (which I'll be ordering as a kit.) This isn't the worst in the world :)
@@ -48,7 +48,8 @@ These won't be needed for the laptop to be functional, but I might eventually ge
 
 I likely won't have my own commentary in this section until at least the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
-# Testing *TK*
+# Testing
+     *TK*
 - Likely this section won't have the first update until the Mainboard is ordered owning to not having anything to actually *test* with.
 
 # Results & Final Thoughts *TK*
