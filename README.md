@@ -5,7 +5,7 @@ LSS, I estimate I'll be *over* paying for the *convenience* of building my own F
 Moving on.
 
 # Parts
-in some order of ordering / Price until I can do a bulk order for what else is left
+in some order of ordering / price until I can do a bulk order for what else is left
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
