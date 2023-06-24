@@ -5,7 +5,8 @@ Moving on.
 # The Parts
 
 ## Parts
-- [x] Fastener Kit - Bottom Cover and Mainboard x1 - Ordered 6/23/202 (Shipped from NJ)
+- [x] Fastener Kit - Bottom Cover and Mainboard x1
+     - Ordered 6/23/202 (Shipped from NJ)
 - [ ] Remaining Parts
   
 # Why?
