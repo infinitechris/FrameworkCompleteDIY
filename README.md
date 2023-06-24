@@ -25,7 +25,7 @@ in some order of ordering / price until I can do a bulk order for what else is l
 I likely won't have my own commentary in this section until at least the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
 # Testing *TK*
-1. Likely this section won't have the furst update until the Mainboard is ordered owning to not having anything to actually *test* with.
+- Likely this section won't have the first update until the Mainboard is ordered owning to not having anything to actually *test* with.
 
 # Results & Final Thoughts *TK*
-1. Naturally this will be last to be completed. *gasp*
+- Naturally this will be last to be completed. *gasp*
