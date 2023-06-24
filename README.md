@@ -7,7 +7,7 @@ Moving on.
 # Parts
 in some order of ordering / price until I can do a bulk order for what else is left
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
-     - Ordered 6/23/202 (Shipped from NJ) !(images/FastenerKitBottom.jpeg)
+     - Ordered 6/23/202 (Shipped from NJ) !(/images/FastenerKitBottom.jpeg)
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
