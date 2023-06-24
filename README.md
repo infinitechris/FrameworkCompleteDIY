@@ -1,4 +1,4 @@
-Being not terribly satisfied with the options on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) I truly decided I must be insane for doing this.
+Being not terribly satisfied with the options on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
 
 Moving on.
 
@@ -6,9 +6,6 @@ Moving on.
 
 ## Parts
 - [x] Fastener Kit - Bottom Cover and Mainboard x1 - Ordered 6/23/202 (Shipped from NJ)
-     - MSRP: USD $5.00
-     - Final cost: USD $$15.03
-     - I'll add some pictures once the package arrives and I have more to share than screenshots of readily available images on the web.
 - [ ] Remaining Parts
   
 # Why?
