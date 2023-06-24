@@ -4,16 +4,12 @@ Moving on.
 
 # The Parts
 
-## Parts Purchased So Far
-1. Fastener Kit - Bottom Cover and Mainboard x1 - Ordered 6/23/202 (Shipped from NJ)
+## Parts
+[x] Fastener Kit - Bottom Cover and Mainboard x1 - Ordered 6/23/202 (Shipped from NJ)
    1. MSRP: USD $5.00
    2. Final cost: USD $$15.03
    3. I'll add some pictures once the package arrives and I have more to share than screenshots of readily available images on the web.
-
-## Remaining Parts
-1. Things
-2. Stuff
-3. More Things
+[ ] Remaining Parts
   
 # Why?
 I'm **clearly** criminal levels of insane, and configuration options are scarse unless I want to pre-order a laptop, or be chained to a limited selection of products. I also wanted to see *exactly* how little is needed to boot a *usable* - in my own view - laptop
