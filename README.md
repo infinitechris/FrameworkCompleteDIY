@@ -6,9 +6,9 @@ Moving on.
 
 ## Parts
 - [x] Fastener Kit - Bottom Cover and Mainboard x1 - Ordered 6/23/202 (Shipped from NJ)
-   1. MSRP: USD $5.00
-   2. Final cost: USD $$15.03
-   3. I'll add some pictures once the package arrives and I have more to share than screenshots of readily available images on the web.
+     - MSRP: USD $5.00
+     - Final cost: USD $$15.03
+     - I'll add some pictures once the package arrives and I have more to share than screenshots of readily available images on the web.
 - [ ] Remaining Parts
   
 # Why?
