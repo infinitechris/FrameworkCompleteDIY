@@ -9,13 +9,12 @@ in some order of ordering / Price until I can do a bulk order for what else is l
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
 - [ ] [Touchpad Cable](https://frame.work/products/touchpad-cable)
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
-- [ ] Bezel - Black
-- [ ] Touchpad Kit
+- [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] Battery - 55Wh
 - [ ] Top Cover (CNC)
 - [ ] Bottom Cover Kit
-- [ ] Input Cover Kit
-- [ ] Display Kit - Original
+- [ ] [Input Cover Kit - US English](https://frame.work/products/input-cover-kit?v=FRANHC0001)
+- [ ] [Display Kit - Original](https://frame.work/products/display-kit?v=FRANFX0001)
 - [ ] Mainboard - 11th Gen - i5-1135G7
   
 # Why?
@@ -30,7 +29,6 @@ I will be skipping out on:
 6. wifi
 7. antenna module
 8. system drive
-9. fingerprint sensor
 
 I happen to have usb dongles for adding an audio jack, micro sd or full sized (via a hub that I have and intend to document what does *and doesn't* work) and wifi (via a raspberry pi wifi usb adapter), so skipping these until further testing reveals if any of the above are needed.
 
