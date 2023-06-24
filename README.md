@@ -4,13 +4,11 @@ Moving on.
 
 # Parts
 in some order of ordering / Price until I can do a bulk order for what else is left
-- [x] [https://frame.work/products/fastener-kit-bottom-cover-and-mainboard](Fastener Kit - Bottom Cover and Mainboard)
+- [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
-- [ ] Fastener Kit - Top Cover
-- [ ] Thermal Paste
-- [ ] Touchpad Cable
-- [ ] Hinge Kit
-- [ ] Heatsink and Fan Kit
+- [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
+- [ ] [Touchpad Cable](https://frame.work/products/touchpad-cable)
+- [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
 - [ ] Bezel - Black
 - [ ] Touchpad Kit
 - [ ] Battery - 55Wh
@@ -30,7 +28,9 @@ I will be skipping out on:
 4. audio card
 5. audio jack
 6. wifi
-7. system drive
+7. antenna module
+8. system drive
+9. fingerprint sensor
 
 I happen to have usb dongles for adding an audio jack, micro sd or full sized (via a hub that I have and intend to document what does *and doesn't* work) and wifi (via a raspberry pi wifi usb adapter), so skipping these until further testing reveals if any of the above are needed.
 
