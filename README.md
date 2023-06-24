@@ -2,7 +2,8 @@ Being not terribly satisfied with the options on [frame.work](https://frame.work
 
 Moving on.
 
-# Parts (in some order of ordering / Price until I can do a bulk order for what else is left)
+# Parts
+in some order of ordering / Price until I can do a bulk order for what else is left
 - [x] Fastener Kit - Bottom Cover and Mainboard
      - Ordered 6/23/202 (Shipped from NJ)
 - [ ] Fastener Kit - Top Cover
