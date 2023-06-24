@@ -2,6 +2,7 @@
 I decided to document ny masochistic adventures in building my own Framework Laptop completely from parts.
 
 **Summary**
+
 Being not terribly satisfied with the options on [framew.work](https://frame.work/)'s website, I decided to embark on this journey. After doing an [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) I truly decided I must be insane for doing this.
 
 Moving on.
