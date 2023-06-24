@@ -22,9 +22,9 @@ I'm **clearly** criminal levels of insane, and configuration options are scarse 
 I will be skipping out on:
 1. speakers
      - lots of reviews trash on the fact that they fire downwards
-3. web cam
-4.  wifi
-5. system drive
+2. web cam
+3.  wifi
+4. system drive
 
 I happen to have usb dongles for adding an audio jack, micro sd or full sized (via a hub that I have and intend to document what does *and doesn't* work) and wifi (via a raspberry pi wifi usb adapter), so skipping these until further testing reveals if any of the above are needed.
 
