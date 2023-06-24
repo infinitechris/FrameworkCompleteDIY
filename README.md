@@ -4,7 +4,7 @@ Moving on.
 
 # Parts
 in some order of ordering / Price until I can do a bulk order for what else is left
-- [x] Fastener Kit - Bottom Cover and Mainboard
+- [x] [https://frame.work/products/fastener-kit-bottom-cover-and-mainboard](Fastener Kit - Bottom Cover and Mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
 - [ ] Fastener Kit - Top Cover
 - [ ] Thermal Paste
