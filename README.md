@@ -2,11 +2,22 @@ Being not terribly satisfied with the options on [frame.work](https://frame.work
 
 Moving on.
 
-# Parts
+# Parts (in some order of ordering / Price until I can do a bulk order for what else is left)
 - [x] Fastener Kit - Bottom Cover and Mainboard
      - Ordered 6/23/202 (Shipped from NJ)
 - [ ] Fastener Kit - Top Cover
-- [ ] 
+- [ ] Thermal Paste
+- [ ] Touchpad Cable
+- [ ] Hinge Kit
+- [ ] Heatsink and Fan Kit
+- [ ] Bezel - Black
+- [ ] Touchpad Kit
+- [ ] Battery - 55Wh
+- [ ] Top Cover (CNC)
+- [ ] Bottom Cover Kit
+- [ ] Input Cover Kit
+- [ ] Display Kit - Original
+- [ ] Mainboard - 11th Gen - i5-1135G7
   
 # Why?
 I'm **clearly** criminal levels of insane, and configuration options are scarse unless I want to pre-order a laptop, or be chained to a limited selection of products. I also wanted to see *exactly* how little is needed to boot a *usable* - in my own view - laptop
@@ -31,4 +42,4 @@ I happen to have usb dongles for adding an audio jack, micro sd or full sized (v
 1. Likely this section won't have the furst update until the Mainboard is ordered owning to not having anything to actually *test* with.
 
 # Results & Final Thoughts *TK*
-! Naturally this will be last to be completed. *gasp*
+1. Naturally this will be last to be completed. *gasp*
