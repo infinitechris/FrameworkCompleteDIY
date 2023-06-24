@@ -2,7 +2,7 @@
 I decided document ny masochistic adventures in building my own Framework Laptop completely from parts
 
 **Summary**
-Being not terribly satisfied with the options on [https://frame.work/](frame.work)'s website, I decided to embark on this journey. After doing an [https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing](inital Bill Of Materials) I truly decided I must be insane for doing this.
+Being not terribly satisfied with the options on [https://frame.work/](frame.work)'s website, I decided to embark on this journey. After doing an [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) I truly decided I must be insane for doing this.
 
 Moving on.
 
