@@ -8,6 +8,8 @@ Moving on.
 in some order of ordering / price until I can do a bulk order for what else is left
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
+     - Looks like I'll have six extra T5 screws. Looking at the bottom disassembly guide I'll only need 13 screws and the kit includes 19. Extras are because they're included as captive in the bottom cover (which I'll be ordering as a kit.) This isn't the worst in the world :)
+     - I'll notate which are extras as which exact ones and their placement aren't in any guide in the site -_-
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
