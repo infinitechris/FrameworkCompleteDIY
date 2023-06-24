@@ -20,13 +20,8 @@ in some order of ordering / Price until I can do a bulk order for what else is l
 I'm **clearly** criminal levels of insane, and configuration options are scarse unless I want to pre-order a laptop, or be chained to a limited selection of products. I also wanted to see *exactly* how little is needed to boot a *usable* - in my own view - laptop
 
 I will be skipping out on:
-1. speakers
-     - lots of reviews trash on the fact that they fire downwards
-2. web cam
-3.  wifi
-4. system drive
-
-I happen to have usb dongles for adding an audio jack, micro sd or full sized (via a hub that I have and intend to document what does *and doesn't* work) and wifi (via a raspberry pi wifi usb adapter), so skipping these until further testing reveals if any of the above are needed.
+1. wifi
+2. system drive
 
 # Assembly
 1. Links to Framewrk's own guides here, adding my own where needed.
