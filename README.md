@@ -19,9 +19,11 @@ in some order of ordering / Price until I can do a bulk order for what else is l
 - [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
   
 # Assembly
+- [ ] [Bottom Cover Replacement Guide](https://guides.frame.work/Guide/Bottom+Cover+Replacement+Guide/107?lang=en)
+- [ ] [Top Cover Replacement Guide](https://guides.frame.work/Guide/Top+Cover+Replacement+Guide/118?lang=en)
 1. Links to Framewrk's own guides here, adding my own where needed.
 2. Pictures, naturally,
-3. Likely I won't have the first update to this section until the Top Cover arrives due to lack of having anything to actually *assemble* to.
+3. Likely I won't have the first update to this section until at least the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
 # Testing *TK*
 1. Likely this section won't have the furst update until the Mainboard is ordered owning to not having anything to actually *test* with.
