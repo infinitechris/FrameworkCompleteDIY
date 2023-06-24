@@ -2,12 +2,11 @@ Being not terribly satisfied with the options on [frame.work](https://frame.work
 
 Moving on.
 
-# The Parts
-
-## Parts
-- [x] Fastener Kit - Bottom Cover and Mainboard x1
+# Parts
+- [x] Fastener Kit - Bottom Cover and Mainboard
      - Ordered 6/23/202 (Shipped from NJ)
-- [ ] Remaining Parts
+- [ ] Fastener Kit - Top Cover
+- [ ] 
   
 # Why?
 I'm **clearly** criminal levels of insane, and configuration options are scarse unless I want to pre-order a laptop, or be chained to a limited selection of products. I also wanted to see *exactly* how little is needed to boot a *usable* - in my own view - laptop
@@ -25,9 +24,11 @@ I happen to have usb dongles for adding an audio jack, micro sd or full sized (v
 
 # Assembly
 1. Links to Framewrk's own guides here, adding my own where needed.
+2. Pictures, naturally,
+3. Likely I won't have the first update to this section until the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
 # Testing *TK*
+1. Likely this section won't have the furst update until the Mainboard is ordered owning to not having anything to actually *test* with.
 
-# Results *TK*
-
-# Final Thoughts *TK*
+# Results & Final Thoughts *TK*
+! Naturally this will be last to be completed. *gasp*
