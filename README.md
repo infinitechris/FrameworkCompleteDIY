@@ -29,6 +29,9 @@ I will be skipping out on:
 
 I happen to have usb dongles for adding an audio jack, micro sd or full sized (via a hub that I have and intend to document what does *and doesn't* work) and wifi (via a raspberry pi wifi usb adapter), so skipping these until further testing reveals if any of the above are needed.
 
+# Assembly
+1. Links to Framewrk's own guides here, adding my own where needed.
+
 # Results TK
 
 # Final Thoughts TK
