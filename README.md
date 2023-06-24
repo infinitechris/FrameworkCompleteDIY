@@ -31,6 +31,16 @@ These won't be needed for the laptop to be functional, but I might eventually ge
      - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for AX210 vs AX211
      - Per [this link](https://community.frame.work/t/solved-using-the-ax210-with-linux-on-the-framework-laptop/1844) it looks like I'll have to make sure I'm on kernel 5.12.0 and no later. FWIW: I'll be using vanilla Arch on this machine
 - [ ] Expansion Modules
+     - [ ] [USB-C Expansion Card](https://frame.work/products/usb-c-expansion-card?v=FRACCKBZ01)
+          - I don't mind having to use an [usb-c extension cable](https://www.newegg.com/p/181-005S-000A5) for plugging in my hub, but this will be nice to not have to carry around this cable to use the hub
+     - [ ] [USB-A Expansion Card](https://frame.work/products/usb-a-expansion-card)
+          - This will be to lessen my dependence on having to use my usb hub
+     - [ ] [HDMI (1st Gen) Expansion Card](https://frame.work/products/hdmi-expansion-card)
+          - ditto the above
+     - [ ] [MicroSD Expansion Card](https://frame.work/products/microsd-expansion-card)
+          - more of the same
+     - [ ] [Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card)
+          - This one is the most gaudy of all of them, considering it sticks out as far as it does, and I may opt for a usb-c to ethernet adapter or an all-in-one docking solution instead of it.
   
 # Assembly
 - [ ] [Bottom Cover Replacement Guide](https://guides.frame.work/Guide/Bottom+Cover+Replacement+Guide/107?lang=en)
