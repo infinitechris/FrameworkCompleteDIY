@@ -4,8 +4,10 @@ LSS, I estimate I'll be *over* paying for the *convenience* of building my own F
 
 Moving on.
 
-# Parts
-in some order of ordering / price until I can do a bulk order for what else is left
+@ Parts
+
+## Needed
+     These are in order price
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
      - Looks there will be six extra T5 screws. Looking at the bottom disassembly guide, Only need 13 screws are needed and the kit includes 19. Extras are because they're included as captive in the bottom cover (which I'll be ordering as a kit.) This isn't the worst in the world :)
@@ -19,6 +21,15 @@ in some order of ordering / price until I can do a bulk order for what else is l
 - [ ] [Input Cover Kit - US English](https://frame.work/products/input-cover-kit?v=FRANHC0001)
 - [ ] [Display Kit - Original](https://frame.work/products/display-kit?v=FRANFX0001)
 - [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
+
+## Additioal Nice-to-Haves
+These won't be needed for the laptop to be functional, but I might eventually get to lessen my dependency on dongles.
+- [ ] [Webcam Module](https://frame.work/products/webcam-module?v=FRANCPPA01))
+      - This will be nice to have for video confrencing at work, but likely I won't get it unless there's a gaping hole in the display that aesthetically bothers me 
+- [ ] Wifi Module (Intel® Wi-Fi 6E AX210)[https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro]
+      - I have a wifi USB-A dongle that has the same chipset that the Raspberry Pi 3 uses that I will be using in a USB hub (as long as the hub is supported. Likely this will be upgraded
+      - See (this link)[https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943] for why I chose the AX210 vs the AX211
+- [ ] Expansion Modules
   
 # Assembly
 - [ ] [Bottom Cover Replacement Guide](https://guides.frame.work/Guide/Bottom+Cover+Replacement+Guide/107?lang=en)
