@@ -1,4 +1,4 @@
-Being not terribly satisfied with the options on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
+Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
 
 LSS, I estimate I'll be *over* paying for the *convenience* of building my own Framework by ~$168 based on MSRP alone.
 
@@ -35,13 +35,25 @@ These are in order price
           - M1.6 3.0mm fastener with a T5 head which is 3.0mm diameter and 0.65mm thick (x4)
                - These are silver colored and all will be used for the Antenna Module and hinges
 - [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
+     - This kit includes *gasp* two hinges, and that's all
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] [Battery - 55Wh](https://frame.work/products/battery?v=FRANBBAT01)
+     - This includes the battery and the fasteners to attach it as they're captive
 - [ ] [Top Cover (CNC)](https://frame.work/products/top-cover-cnc)
+     - This includes the Top Cover, Antenna Module, and Webcam Cable (both pre-installed)
 - [ ] [Bottom Cover Kit](https://frame.work/products/bottom-cover-kit/)
+     - This kit includes the Bottom Cover, Audio Board (attached w/ screw,) Audio Board Cable, Speakers (attached with requisite screws?,) and WiFi Bracket (attached with screw)
 - [ ] [Input Cover Kit - US English](https://frame.work/products/input-cover-kit?v=FRANHC0001)
+     - This kit includes a the Keyboard, Touchpad (attached with screws,) and Fingerprint Reader (attached with screws)
 - [ ] [Display Kit - Original](https://frame.work/products/display-kit?v=FRANFX0001)
+     - This kit includes a glossy LCD display with left & right brackets attached along with EDP cable
 - [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
+     - This includes a copper heatsink, 65mm fan, and  RTC Battery (ML1220) all attached (yay no thermal paste needed!)
+- [ ] Memory
+     - I have to research this further to see what's compatible and cross price between the Marketplace and other online sources
+     - Nirav Patel (Framework CEO) made a [blog post](https://frame.work/blog/storage-memory-and-wifi) relevant to this
+     - [What memory (DRAM) parts are compatible with the Framework Laptop?](https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
+     - LSS: DDR4 DRAM at up to DDR4-3200MHz at 32BG per socket are supported. (NB: NO XMP ram is to be used in Socket 0)
 
 ## Additioal Nice-to-Haves
 These won't be needed for the laptop to be functional, but I might eventually get most of them to lessen my dependency on dongles and my usb hub.
@@ -72,9 +84,15 @@ I plan on implementing my own guide for anyone that wishes to do the same in the
 
 Why anyone else would torture themselves to do this is beyond me. I am doing it only for the challange :)
 
+## Guides Used
 - [ ] [Bottom Cover Replacement Guide](https://guides.frame.work/Guide/Bottom+Cover+Replacement+Guide/107?lang=en)
 - [ ] [Top Cover Replacement Guide](https://guides.frame.work/Guide/Top+Cover+Replacement+Guide/118?lang=en)
 - [ ] [Hinge Replacement Guide](https://guides.frame.work/Guide/Hinge+Replacement+Guide/104?lang=en)
+- [ ] [Memory Replacement Guide](https://guides.frame.work/Guide/Memory+Replacement+Guide/94?lang=en)
+- [ ] [Battery Replacement Guide](https://guides.frame.work/Guide/Battery+Replacement+Guide/85?lang=en)
+- [ ] [Touchpad Replacement Guide](https://guides.frame.work/Guide/Touchpad+Replacement+Guide/90?lang=en)
+- [ ] [Fingerprint Reader Replacement Guide](https://guides.frame.work/Guide/Fingerprint+Reader+Replacement+Guide/91?lang=en)
+- [ ] [Arch Linux on the Framework Laptop](https://community.frame.work/t/arch-linux-on-the-framework-laptop/3843)
 
 I likely won't have my own commentary in this section until at least the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
