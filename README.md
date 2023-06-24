@@ -1,4 +1,4 @@
-Being not terribly satisfied with the options on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this. LSS, I extimate I'll be *over* paying for the *convenience* of building my own Framework by ~$168
+Being not terribly satisfied with the options on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this. LSS, I extimate I'll be *over* paying for the *convenience* of building my own Framework by ~$168 based on MSRP alone. I am going to combine parts orders wehre I can to mitigate shipping.
 
 Moving on.
 
