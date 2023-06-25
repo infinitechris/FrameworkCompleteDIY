@@ -56,7 +56,7 @@ These are in order price
      - LSS: DDR4 DRAM at up to DDR4-3200MHz at 32BG per socket are supported. (NB: NO XMP ram is to be used in Socket 0)
 
 ## Additioal Nice-to-Haves
-These won't be needed for the laptop to be functional, but I might eventually get most of them to lessen my dependency on dongles and my usb hub.
+These won't be needed for the laptop to be functional, but I might eventually get most of them to lessen my dependency on dongles and [my usb hubhttps://www.hypershop.com/products/hyperdrive-solo-hub-for-usb-c-macbook-pc-devices).
 - [ ] [Webcam Module](https://frame.work/products/webcam-module?v=FRANCPPA01)
       - This will be nice to have for video confrencing at work, but likely I won't get it unless there's a gaping hole in the display that aesthetically bothers me 
 - [ ] [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
