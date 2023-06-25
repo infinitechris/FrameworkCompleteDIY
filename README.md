@@ -26,7 +26,7 @@ These are in order of price
                - These all will be extras as the Bottom Cover includes them
                - FYI: There's no place else where these are used
  - [x] 512GB M.2 Crucial 2280 drive
-     - I have this from a tower I already have. I'm going to see if using a microsd in a usb-c is feasable before connecting the M.2 drive
+     - I have this from a tower I already have. I'm going to see if using a microsd in a usb-c hub is feasable before connecting the M.2 drive
 
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
      - This kit includes the following:
