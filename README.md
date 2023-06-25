@@ -25,6 +25,8 @@ These are in order of price
           - M2 5.75mm with a T5 head which is 4.6mm diameter and 0.8mm thick (x5)
                - These all will be extras as the Bottom Cover includes them
                - FYI: There's no place else where these are used
+ - [x] 512GB M.2 Crucial 2280 drive
+     - I have this from a tower I already have. I'm going to see if using a microsd in a usb-c is feasable before connecting the M.2 drive
 
 - [ ] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
      - This kit includes the following:
@@ -55,14 +57,17 @@ These are in order of price
             NO XMP ram is to be used in Socket 0!
      - Nirav Patel (Framework CEO) made a [blog post](https://frame.work/blog/storage-memory-and-wifi) relevant to this
      - [What memory (DRAM) parts are compatible with the Framework Laptop?](https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
-     - LSS: DDR4 DRAM at up to DDR4-3200MHz at 32BG per socket are supported.
+     - [ ] [Crucial 32GB DDR4-3200](https://www.crucial.com/memory/ddr4/ct32g4sfd832a)
+     - [ ] [Kingston ValueRAM 32GB 3200MHz](https://www.amazon.com/Kingston-Laptop-3200MHz-KVR32S22D8-32/dp/B08K5H4HBQ/)
+     - [ ] [Samsung 32GB 3200MHz](https://www.amazon.com/3200MHz-PC4-25600-260-Pin-SODIMM-M471A4G43AB1-CWE/dp/B08FBNQXC4/)
+     - [ ] [Micron 32GB 3200MHz](https://www.amazon.com/Micron-SODIMM-MTA16ATF4G64HZ-3G2-Notebook-Systems/dp/B0BH42Z6YY)
 
 ## Additioal Nice-to-Haves
 These won't be needed for the laptop to be functional, but I might eventually get most of them to lessen my dependency on dongles and [my usb hub](https://www.hypershop.com/products/hyperdrive-solo-hub-for-usb-c-macbook-pc-devices).
 - [ ] [Webcam Module](https://frame.work/products/webcam-module?v=FRANCPPA01)
       - This will be nice to have for video confrencing at work, but likely I won't get it unless there's a gaping hole in the display that aesthetically bothers me 
 - [ ] [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
-     - I have a [Raspberry Pi USB WiFi Dongle](https://www.raspberrypi.com/products/raspberry-pi-usb-wifi-dongle/) that has the same chipset (BCM43143) that the Raspberry Pi 3 uses (and is very well supported by linux) that I will be using in a USB hub (as long as the hub is supported.)
+     - I have a [Raspberry Pi USB WiFi Dongle](https://www.raspberrypi.com/products/raspberry-pi-usb-wifi-dongle/) that has the same chipset (BCM43143) that the Raspberry Pi 3 uses (and is very well supported by linux) that I will be using in a USB hub that I've used in linux with success before
      - Likely this will be added first to lessen my dependency on a usb-c extension cable and hub
      - : none of the Framework marketplace or product pages were useful in determining which dongle was best. All thanks is owed to the community forum!!
      - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for AX210 vs AX211
