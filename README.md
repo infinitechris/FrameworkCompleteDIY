@@ -1,4 +1,4 @@
-Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
+Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
 
 LSS, I estimate I'll be *over* paying for the *convenience* of building my own Framework by ~$168 based on MSRP alone.
 
@@ -9,10 +9,10 @@ Moving on.
 # Parts
 
 ## Needed
-These are in order price
+These are in order of price
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - Ordered 6/23/202 (Shipped from NJ)
-     - Per [the Fasteners Guide](https://guides.frame.work/Guide/Fasteners+Guide/106?lang=en) this kit includes the following:
+     - Per the [Fasteners Guide](https://guides.frame.work/Guide/Fasteners+Guide/106?lang=en) this kit includes the following:
           - M2 3.0mm fastener with a T5 head which is 4.5mm diameter and 0.7mm thick (x4)
                - These are gold colored, for WiFi, Storage, and Audio Board
                     - Three aren't needed: Wifi, Audio, and a spare
@@ -50,10 +50,12 @@ These are in order price
 - [ ] [Mainboard - 11th Gen - i5-1135G7](https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000A)
      - This includes a copper heatsink, 65mm fan, and  RTC Battery (ML1220) all attached (yay no thermal paste needed!)
 - [ ] Memory
-     - I have to research this further to see what's compatible and cross price between the Marketplace and other online sources
+     - 260-pin DDR4 SO-DIMM is supported at up to 32GB per SO-DIMM, 3200 MHz, CAS Latency 22, 1.2 Volts
+
+            NO XMP ram is to be used in Socket 0!
      - Nirav Patel (Framework CEO) made a [blog post](https://frame.work/blog/storage-memory-and-wifi) relevant to this
      - [What memory (DRAM) parts are compatible with the Framework Laptop?](https://knowledgebase.frame.work/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
-     - LSS: DDR4 DRAM at up to DDR4-3200MHz at 32BG per socket are supported. (NB: NO XMP ram is to be used in Socket 0)
+     - LSS: DDR4 DRAM at up to DDR4-3200MHz at 32BG per socket are supported.
 
 ## Additioal Nice-to-Haves
 These won't be needed for the laptop to be functional, but I might eventually get most of them to lessen my dependency on dongles and [my usb hub](https://www.hypershop.com/products/hyperdrive-solo-hub-for-usb-c-macbook-pc-devices).
@@ -62,7 +64,7 @@ These won't be needed for the laptop to be functional, but I might eventually ge
 - [ ] [Intel® Wi-Fi 6E AX210](https://frame.work/products/intel-wi-fi-6e-ax210-no-vpro)
      - I have a [Raspberry Pi USB WiFi Dongle](https://www.raspberrypi.com/products/raspberry-pi-usb-wifi-dongle/) that has the same chipset (BCM43143) that the Raspberry Pi 3 uses (and is very well supported by linux) that I will be using in a USB hub (as long as the hub is supported.)
      - Likely this will be added first to lessen my dependency on a usb-c extension cable and hub
-     - NB: none of the Framework marketplace or product pages were useful in determining which dongle was best. All thanks is owed to the community forum!!
+     - : none of the Framework marketplace or product pages were useful in determining which dongle was best. All thanks is owed to the community forum!!
      - See [this link](https://community.frame.work/t/is-25the-ax210-better-than-the-ax211/31943) for AX210 vs AX211
      - Per [this link](https://community.frame.work/t/solved-using-the-ax210-with-linux-on-the-framework-laptop/1844) it looks like I'll have to make sure I'm on kernel 5.12.0 and no later. FWIW: I'll be using vanilla Arch on this machine
 - [ ] Expansion Modules
@@ -98,7 +100,7 @@ I likely won't have my own commentary in this section until at least the Top Cov
 
 # Testing
      *TK*
-- Likely this section won't have the first update until the Mainboard is ordered owning to not having anything to actually *test* with.
+- Likely this section won't have the first update until the Maioard is ordered owning to not having anything to actually *test* with.
 
 # Results & Final Thoughts *TK*
 - Naturally this will be last to be completed. *gasp*
