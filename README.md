@@ -44,7 +44,7 @@ These are in order of price
 - [ ] [Top Cover (CNC)](https://frame.work/products/top-cover-cnc)
      - This includes the Top Cover, Antenna Module, and Webcam Cable (both pre-installed)
 - [ ] [Bottom Cover Kit](https://frame.work/products/bottom-cover-kit/)
-     - This kit includes the Bottom Cover, Audio Board (attached w/ screw,) Audio Board Cable, Speakers (attached with requisite screws?,) and WiFi Bracket (attached with screw)
+     - This kit includes the Bottom Cover, Audio Board (attached w/ screw,) Audio Board Cable, Speakers (attached,) and WiFi Bracket (attached with screw)
 - [ ] [Input Cover Kit - US English](https://frame.work/products/input-cover-kit?v=FRANHC0001)
      - This kit includes a the Keyboard, Touchpad (attached with screws,) and Fingerprint Reader (attached with screws)
 - [ ] [Display Kit - Original](https://frame.work/products/display-kit?v=FRANFX0001)
