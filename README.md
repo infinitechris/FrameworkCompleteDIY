@@ -11,7 +11,8 @@ Moving on.
 ## Needed
 These are in order of price
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
-     - Ordered 6/23/202 (Shipped from NJ)
+     - ![Picture of Bottom Cover and Mainboard Fastener Kit](images/IMG_20230626_190119_01%20resize.jpg)
+          - In case you're curious, each of the bags that the fasteners come in are [individually labeled]! 
      - Per the [Fasteners Guide](https://guides.frame.work/Guide/Fasteners+Guide/106?lang=en) this kit includes the following:
           - M2 3.0mm fastener with a T5 head which is 4.5mm diameter and 0.7mm thick (x4)
                - These are gold colored, for WiFi, Storage, and Audio Board
