@@ -1,15 +1,13 @@
-Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey. After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
+Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey.
 
-LSS, I estimate I'll be *over* paying for the *convenience* of building my own Framework by ~$168 based on MSRP alone.
-
-I am going to combine parts orders where I can to mitigate shipping.
+After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
 
 Moving on.
 
 # Parts
 
 ## Needed
-These are in order of price
+(Roughly in order of price)
 - [x] [Fastener Kit - Bottom Cover and Mainboard](https://frame.work/products/fastener-kit-bottom-cover-and-mainboard)
      - ![Picture of Bottom Cover and Mainboard Fastener Kit](images/IMG_20230626_190119_01%20resize.jpg)
           - In case you're curious, each of the bags that the fasteners come in are [individually labeled](images/IMG_20230626_190119_01.jpg)! 
@@ -111,5 +109,6 @@ I likely won't have my own commentary in this section until at least the Top Cov
 # Notes, Results & Final Thoughts
 
        More TK once build is complete
+- Total cost of materials will be ~$168 over the cost of a traditional DIY Kit.
 - Places I've linked to this guide
      - [Framework Community Forum](https://community.frame.work/t/framework-complete-diy/32979)
