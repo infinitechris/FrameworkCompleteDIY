@@ -109,5 +109,7 @@ I likely won't have my own commentary in this section until at least the Top Cov
      *TK*
 - Likely this section won't have the first update until the Maioard is ordered owning to not having anything to actually *test* with.
 
-# Results & Final Thoughts *TK*
+# Notes, Results & Final Thoughts *TK*
 - Naturally this will be last to be completed. *gasp*
+- Places I've linked to this guide
+     - [Framework Community Forum](https://community.frame.work/t/framework-complete-diy/32979)
