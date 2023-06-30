@@ -106,10 +106,10 @@ Why anyone else would torture themselves to do this is beyond me. I am doing it 
 I likely won't have my own commentary in this section until at least the Top Cover arrives due to lack of having anything to actually *assemble* to.
 
 # Testing
-     *TK*
-- Likely this section won't have the first update until the Maioard is ordered owning to not having anything to actually *test* with.
+     Nore TK once build is complete
 
-# Notes, Results & Final Thoughts *TK*
-- Naturally this will be last to be completed. *gasp*
+# Notes, Results & Final Thoughts
+
+       More TK once build is complete
 - Places I've linked to this guide
      - [Framework Community Forum](https://community.frame.work/t/framework-complete-diy/32979)
