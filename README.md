@@ -36,7 +36,8 @@ Moving on.
                - These are gray colored and all will be used for the Display and hinges
           - M1.6 3.0mm fastener with a T5 head which is 3.0mm diameter and 0.65mm thick (x4)
                - These are silver colored and all will be used for the Antenna Module and hinges
-- [ ] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
+- [x] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
+     - Ordered 6/30
      - This kit includes *gasp* two hinges, and that's all
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] [Battery - 55Wh](https://frame.work/products/battery?v=FRANBBAT01)
