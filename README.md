@@ -113,3 +113,5 @@ I likely won't have my own commentary in this section until at least the Top Cov
 - Total cost of materials will be ~$168 over the cost of a traditional DIY Kit.
 - Places I've linked to this guide
      - [Framework Community Forum](https://community.frame.work/t/framework-complete-diy/32979)
+
+#@
