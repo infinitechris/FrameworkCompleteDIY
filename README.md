@@ -28,7 +28,7 @@ Moving on.
      - I have this from a tower I already have. I'm going to see if using a microsd in a usb-c hub is feasable before connecting the M.2 drive
 
 - [x] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
-     - Ordered 6/29 - shipment issue, update TBA
+     - Ordered 6/29 - shipment issue, reshipped 7/5
      - This kit includes the following:
           - M1.6 1.5mm fastener with a T5 head which is 5.5mm diameter and 0.6mm thick (x2)
                - These are gray colored and both will be used for the Webcam
