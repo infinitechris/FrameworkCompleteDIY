@@ -1,6 +1,6 @@
 Being not terribly satisfied with the options availible in stock (no preorders!) on [frame.work](https://frame.work/)'s website, I decided to embark on this journey.
 
-After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
+After doing a [inital Bill Of Materials](https://docs.google.com/spreadsheets/d/1YayfsNAYgf5DBnbEC524bHOcLVi5MpsAGUarsPbGo8w/edit?usp=sharing) (MSRP and totals paid will live on the google doc) I truly decided I must be insane for doing this.
 
 Moving on.
 
