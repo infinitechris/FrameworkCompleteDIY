@@ -27,8 +27,7 @@ Moving on.
  - [x] 512GB M.2 Crucial 2280 drive
      - I have this from a tower I already have. I'm going to see if using a microsd in a usb-c hub is feasable before connecting the M.2 drive
 
-- [x] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)
-     - Ordered 6/29 - shipment issue, reshipped 7/5
+- [x] [Fastener Kit - Top Cover](https://frame.work/products/fastener-kit-top-cover?v=FRANGY0001)/5
      - This kit includes the following:
           - M1.6 1.5mm fastener with a T5 head which is 5.5mm diameter and 0.6mm thick (x2)
                - These are gray colored and both will be used for the Webcam
@@ -37,7 +36,6 @@ Moving on.
           - M1.6 3.0mm fastener with a T5 head which is 3.0mm diameter and 0.65mm thick (x4)
                - These are silver colored and all will be used for the Antenna Module and hinges
 - [x] [Hinge Kit](https://frame.work/products/hinge-kit-2nd-gen-3-5kg)
-     - Ordered 6/30
      - This kit includes *gasp* two hinges, and that's all
 - [ ] [Bezel - Black](https://frame.work/products/bezel?v=FRANCB0011)
 - [ ] [Battery - 55Wh](https://frame.work/products/battery?v=FRANBBAT01)
